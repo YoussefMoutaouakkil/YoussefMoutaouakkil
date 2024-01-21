@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Youssef Moutaouakkil from Morocco<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning Java and  PHP<br>- ⚡ In my free time I Code</p>
+<p align="left">I'm Youssef Moutaouakkil from Morocco<br><br>- 🔭 I’m working as Software Engineer<br>- 📚 I'm currently learning TKinter and  PHP<br>- ⚡ In my free time I Code</p>
 
 ###
 
